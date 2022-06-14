@@ -1,0 +1,8 @@
+{
+  "TARGET": "TARGET ID HERE",
+  
+  "ICE"   : {
+          "SESSION_PATH"  : "icey/sessions.txt",
+          "PROXY_PATH"    : "icey/proxies.txt"
+  }
+}
